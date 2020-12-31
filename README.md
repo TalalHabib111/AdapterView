@@ -1,0 +1,2 @@
+# AdapterView
+implementing adapter views
